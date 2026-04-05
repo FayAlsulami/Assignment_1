@@ -9,9 +9,13 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/rishike
 - Columns: 17
 
 *Description of Features*
+
 -url	(Website URL of the restaurant on Zomato)
+
 -address	(Full address of the restaurant)
+
 -name	(Name of the restaurant)
+
 -online_order	(Whether online ordering is available (Yes/No))
 -book_table	(Whether table booking is available (Yes/No))
 -rate	(Restaurant rating out of 5 )
@@ -28,6 +32,7 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/rishike
 -listed_in_city	(City where the restaurant is located)
 
 *Purpose of Using This Dataset*
+
 The purpose of this dataset is to perform Exploratory Data Analysis (EDA) to understand the restaurant landscape in Bengaluru, and it was perfect since I found missing values in it.
 Through this analysis, I aim to answer questions such as:
 
