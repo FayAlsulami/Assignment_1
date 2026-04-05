@@ -44,7 +44,8 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/rishike
 
 -listed_in_city	(City where the restaurant is located)
 
-*Purpose of Using This Dataset*
+
+*Purpose of Using This Dataset:*
 
 The purpose of this dataset is to perform Exploratory Data Analysis (EDA) to understand the restaurant landscape in Bengaluru, and it was perfect since I found missing values in it.
 Through this analysis, I aim to answer questions such as:
