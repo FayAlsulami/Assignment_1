@@ -14,7 +14,7 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/rishike
 -name	(Name of the restaurant)
 -online_order	(Whether online ordering is available (Yes/No))
 -book_table	(Whether table booking is available (Yes/No))
--rate	(Restaurant rating out of 5 (e.g., 4.2/5))
+-rate	(Restaurant rating out of 5 )
 -votes	(Number of votes/customer reviews)
 -phone	(Contact phone number)
 -location	(Area/neighbourhood in Bengaluru)
