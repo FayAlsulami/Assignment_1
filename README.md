@@ -17,18 +17,31 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/rishike
 -name	(Name of the restaurant)
 
 -online_order	(Whether online ordering is available (Yes/No))
+
 -book_table	(Whether table booking is available (Yes/No))
+
 -rate	(Restaurant rating out of 5 )
+
 -votes	(Number of votes/customer reviews)
+
 -phone	(Contact phone number)
+
 -location	(Area/neighbourhood in Bengaluru)
+
 -rest_type	(Type of restaurant (Casual Dining, Cafe, Quick Bites, etc.))
+
 -dish_liked	(Most liked dish at the restaurant)
+
 -cuisines	(Types of food offered (Indian, Chinese, Italian, etc.))
+
 -approx_cost(for two people)	(Estimated cost for two people in Rupees)
+
 -reviews_list	(Customer review comments)
+
 -menu_item	(List of menu items)
+
 -listed_in_type	(Type of service (Delivery, Dine-out, etc.))
+
 -listed_in_city	(City where the restaurant is located)
 
 *Purpose of Using This Dataset*
